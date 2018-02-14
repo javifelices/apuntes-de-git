@@ -8,3 +8,8 @@ Cuando se crea una nueva rama se crea un nuevo apuntador para que lo puedas move
 
 Git sabe en qué rama estás en cada momento mediante un apuntador especial denominado HEAD. En Git, HEAD es el apuntador a la rama local en la que tú estés en ese momento. En este caso, en la rama master. Puesto que el comando git branch solamente crea una nueva rama, y no salta a dicha rama.
 
+`git branch --no-merged`
+Muestra las ramas que no han sido fusionadas a la rama actual.
+
+`git branch --merged`
+Muestra las ramas que han sido fusionadas a la rama actual.
