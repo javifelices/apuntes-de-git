@@ -21,7 +21,7 @@ git config --global core.editor code
 git config --list
 ```
 
-## Flujo de traabajo básico en Git
+## Flujo de trabajo básico en Git
 
 1. Modificas una serie de archivos en tu directorio de trabajo.
 2. Preparar los archivos anadiéndolos al área de preparación.
