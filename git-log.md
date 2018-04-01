@@ -1,4 +1,4 @@
-### git log
+# git log
 
 Muestra todo el historial de commits del proyecto
 
@@ -13,7 +13,7 @@ Muestra el historial con el formato indicado, en este caso:
 3. `%ar` - Fecha de autoría relativa
 4. `%s` - Asunto del commit (título)
 
-#### Limitar la salida del historial
+## Limitar la salida del historial
 
 `git log --after="2018-02-07 00:00:00"`: Muestra los commits realizados después de la fecha especificada.
 

@@ -1,5 +1,8 @@
+# git tag
 
-### git tag nombre_etiqueta
+Lista las etiquetas existentes
+
+## git tag nombre_etiqueta
 
 Lista las etiquetas en orden alfabético.
 
