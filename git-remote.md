@@ -1,9 +1,9 @@
-### git remote
+# git remote
 
 `git remote add origin https://github.com/javifelices/apuntes-de-git.git`
 Con este comando vinculamos nuestro repositorio local con Github.
 
-#### Paso para aportar a otro repositorio
+## Paso para aportar a otro repositorio
 
 1. Hacer un fork en Github.
 2. Clonar el repositorio desde mi cuenta de Github.

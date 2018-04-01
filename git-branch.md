@@ -1,4 +1,4 @@
-### git branch
+# git branch
 
 Una rama Git es simplemente un apuntador móvil apuntando a una de esas confirmaciones.
 
