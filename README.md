@@ -29,8 +29,3 @@ git config --list
 
 
 Esta línea fue creada en la rama **master**
-
-
-## Varios repositorios remotos
-
-Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
